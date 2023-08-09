@@ -9,5 +9,5 @@ This repository provides a Jupyter notebook guide to use the Wasserstein metric 
 - scipy==1.6.0
 - torch==1.13.1
 
-Different versions may work, but the above are the versions that worked for me. 
+Different versions may work, but the above versions worked for me. 
 
